@@ -10,10 +10,12 @@ O controle remoto NXT serve para pilotar os robôs Lego Mindstorms à distância
 Ele resolve a necessidade de criar programações completas apenas para testar se as peças, engrenagens e mecanismos físicos foram montados corretamente.
 
 ## ✨ Funcionalidades
-- Funcionalidade 1 ( Mover-se para frente, trás ,esquerda e direita)
-- Funcionalidade 2 ( Conectar/desconectar do robô via Bluetooth)
-- Funcionalidade 3 ( Movimentação contínua: Sistema onde o robô mantém o movimento até que o botão "parar" seja acionado)
-
+- Funcionalidade 1 ( Mover-se para frente)
+- Funcionalidade 2 ( trás)
+- Funcionalidade 3 ( Esquerda)
+- Funcionalidade 4 ( Direita)
+- Funcionalidade 5 ( Movimentação contínua: Sistema onde o robô mantém o movimento até que o botão "parar" seja acionado)
+- Funcionalidade 6 ( Conectar/desconectar do robô via Bluetooth)
 ## ️ Tecnologias Utilizadas
 - **MIT App Inventor** (Desenvolvimento em blocos)
 - **GitHub** (Hospedagem do projeto)
